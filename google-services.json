@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "793419580524-hn3t1u3iarr8vg2lcv8q5usrf916fnuf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.decaylee13.musefiles",
+            "certificate_hash": "22b533834da5e458d242aada896b71d6f2e79124"
+          }
+        },
+        {
           "client_id": "793419580524-57qfsl69itgu31gomh8k8e6a5rqne2qd.apps.googleusercontent.com",
           "client_type": 3
         }

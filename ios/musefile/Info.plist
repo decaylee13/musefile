@@ -28,7 +28,7 @@
         <key>CFBundleURLSchemes</key>
         <array>
           <string>myapp</string>
-          <string>com.anonymous.musefile</string>
+          <string>com.decaylee13.musefiles</string>
         </array>
       </dict>
       <dict>
