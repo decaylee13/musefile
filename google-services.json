@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "793419580524",
+    "project_id": "musefile-99461",
+    "storage_bucket": "musefile-99461.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793419580524:android:7bf6bdeceefa59d7a04449",
+        "android_client_info": {
+          "package_name": "com.decaylee13.musefile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGy3CmnJ3wSf6X5iyLCLxqzbhSKsXChAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

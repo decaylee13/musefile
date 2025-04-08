@@ -52,3 +52,6 @@ app.json is used by:
 - Expo build system
 - Native platform build tools
 - App store submission process
+
+Can reset the boilerplate-template code using: npm run reset-project
+
