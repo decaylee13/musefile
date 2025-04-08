@@ -2,6 +2,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>CLIENT_ID</key>
+	<string>793419580524-nfnmth8a75s2l5ciokal9duf5alq03aq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.793419580524-nfnmth8a75s2l5ciokal9duf5alq03aq</string>
 	<key>API_KEY</key>
 	<string>AIzaSyBENcRRM4_yXBisUE-5l7Nb2waSdqSlADI</string>
 	<key>GCM_SENDER_ID</key>
@@ -9,7 +13,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.decaylee13.musefile</string>
+	<string>com.decaylee13.musefiles</string>
 	<key>PROJECT_ID</key>
 	<string>musefile-99461</string>
 	<key>STORAGE_BUCKET</key>
@@ -25,6 +29,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:793419580524:ios:8f4203d191de521ba04449</string>
+	<string>1:793419580524:ios:6407d74295776f73a04449</string>
 </dict>
 </plist>

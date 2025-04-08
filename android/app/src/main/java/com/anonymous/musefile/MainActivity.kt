@@ -1,4 +1,4 @@
-package com.musefile
+package com.anonymous.musefile
 
 import android.os.Build
 import android.os.Bundle
