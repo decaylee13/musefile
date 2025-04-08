@@ -7,12 +7,17 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:793419580524:android:7bf6bdeceefa59d7a04449",
+        "mobilesdk_app_id": "1:793419580524:android:bd5bd384935eb8e0a04449",
         "android_client_info": {
-          "package_name": "com.decaylee13.musefile"
+          "package_name": "com.decaylee13.musefiles"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "793419580524-57qfsl69itgu31gomh8k8e6a5rqne2qd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyCGy3CmnJ3wSf6X5iyLCLxqzbhSKsXChAw"
@@ -20,7 +25,19 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793419580524-57qfsl69itgu31gomh8k8e6a5rqne2qd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "793419580524-nfnmth8a75s2l5ciokal9duf5alq03aq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.decaylee13.musefiles"
+              }
+            }
+          ]
         }
       }
     }
