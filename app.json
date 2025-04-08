@@ -11,7 +11,8 @@
     "ios": {
       "supportsTablet": true,
       "googleServicesFile": "./GoogleService-Info.plist",
-      "package": "com.decaylee13.musefile"
+      "package": "com.decaylee13.musefile",
+      "bundleIdentifier": "com.anonymous.musefile"
     },
     "android": {
       "adaptiveIcon": {
@@ -19,7 +20,8 @@
         "backgroundColor": "#ffffff",
         "googleServicesFile": "./google-services.json",
         "package": "com.decaylee13.musefile"
-      }
+      },
+      "package": "com.anonymous.musefile"
     },
     "web": {
       "bundler": "metro",
